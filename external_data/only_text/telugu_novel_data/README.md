@@ -1,0 +1,1 @@
+This folder contains telugu text from novels
